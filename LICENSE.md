@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loja Online</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {font-family: Arial, sans-serif;}
+        .produto {border: 1px solid #000; margin: 10px; padding: 10px;}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à nossa Loja Online!</h1>
+    </header>
+
+    <main>
+        <section class="produto">
+            <h2>Samsung Galaxy A14 5g 64gb 4gb Ram Preto</h2>
+            <!-- Restante do conteúdo do produto -->
+            <a href="https://mercadolivre.com/sec/1pZsFTr">Comprar agora</a>
+        </section>
+
+        <section class="produto">
+            <h2>Notebook Samsung Book I3 4gb 256gb Ssd 15,6'' W11 Cor Cinza-místico</h2>
+            <!-- Restante do conteúdo do produto -->
+            <a href="https://mercadolivre.com/sec/2FpJtco">Comprar agora</a>
+        </section>
+    </main>
+
+    <!-- Adicione mais produtos conforme necessário -->
+
+</body>
+</html>
